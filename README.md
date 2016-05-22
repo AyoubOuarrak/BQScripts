@@ -1,0 +1,2 @@
+#BQScripts
+Here you can find a collection of scripts in Javascript to generate Big Query schema from a json object (script edited from oyvindholmstad), check if a json object match a Big Query schema and other utilities to manipulate json object
